@@ -1,0 +1,45 @@
+body {
+  background-color: gray;
+}
+
+.mimuro {
+  background-color: white;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.izquierdo {
+  float: left;
+}
+
+.derecho {
+  overflow: hidden;
+}
+
+.btn {  
+  margin-left: 10px;
+  padding: 5px;
+  color: white;
+  border-radius: 5px;
+}
+
+.btn-azul {
+  background-color: #2EB8C9;
+  color: white;
+}
+
+.btn-rojo {
+  background-color: #D22E1D;
+  color: white;
+}
+
+.btn-verde {
+  background-color: #32E316;
+  color: white;
+}
+
+input {
+  height: 30px;
+  width: 200px;
+}
+
